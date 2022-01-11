@@ -17,5 +17,4 @@ Thus, inferring that, I've made a decision to grab here the ***links for the pro
 - [Duty Manager](https://github.com/dobroleks94/DutyManager) - the application devoted for the narrow auditory ([MITIT n.a. Heroes of Kruty](http://www.viti.edu.ua/)) to control, manage and report the cadets' livelyhood of specific faculty (or in another words - to create a 'Rozhid Osobovogo Skladu Fakultetu')
 
 Hope, you will like it :) <br/>
-And let me proceed the marking panels, because home panels provide warm atmosphere inside the house, and they are of humongous amount! (Hope, this phrase will be outdated asap :D ) <br/>
 Have a good mood!
