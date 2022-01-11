@@ -1,10 +1,13 @@
 # Hello!
 I've been traversing through the Internet to find the solution of how to grab few repositories in one, and found nowhere it was possible to do so.
 However, I found some interesting [quotations](https://qna.habr.com/q/834127), that attracted me the most, pointin' out the reason why such action was not recommended. Here you are:
-> Каждый проект иметь свой репозиторий, иначе зачем вам git? Папку на dropbox заведите и туда закидывайте.
+> Так бывает, когда GIT-ом начинает пользоваться человек, который не понимает, зачем оно ему на самом деле надо.
+В том и суть, чтобы под каждый проект иметь свой репозиторий, иначе зачем вам git? Папку на dropbox заведите и туда закидывайте.
 
 That was the Maxim Morev said. And one more from user with DevMan nickname:
 > один проект - один репозиторий.<br/>
+технически ничего не мешает создавать папки и заливать в них, что угодно.
+только следует понимать, что будет общая история, смешанные ветки и при клоне придется выгружать все проекты, а не нужный. 
 
 Thus, inferring that, I've made a decision to grab here the ***links for the projects*** I'd like to present for specific purpose!
 
@@ -14,5 +17,5 @@ Thus, inferring that, I've made a decision to grab here the ***links for the pro
 - [Duty Manager](https://github.com/dobroleks94/DutyManager) - the application devoted for the narrow auditory ([MITIT n.a. Heroes of Kruty](http://www.viti.edu.ua/)) to control, manage and report the cadets' livelyhood of specific faculty (or in another words - to create a 'Rozhid Osobovogo Skladu Fakultetu')
 
 Hope, you will like it :) <br/>
-And let me proceed the marking panels, because they are of humongous amount! (Hope, this phrase will be outdated asap :D ) <br/>
+And let me proceed the marking panels, because home panels provide warm atmosphere inside the house, and they are of humongous amount! (Hope, this phrase will be outdated asap :D ) <br/>
 Have a good mood!
