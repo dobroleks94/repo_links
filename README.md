@@ -13,7 +13,7 @@ Thus, inferring that, I've made a decision to grab here the ***links for the pro
 
 - [Exchange Rate API test task](https://github.com/dobroleks94/overonix_test_task) - test task to demonstrate available skills in programming. Detailed description of all task's demands is attached in the README.md file of the repo.
 - [Threaddy Ball Pool](https://github.com/dobroleks94/threaddy-ball-pool) - the application of billiard emulator to demonstrate the threads usage, proposed by Super RDZ ))
-- [Infromational Network Events manager](https://github.com/dobroleks94/informational-network-event_manager) - the mere Spring MVC app, implementating the plain CRUD operations. Usage description is available in README.md
+- [Infromational Network Events manager](https://github.com/dobroleks94/informational-network-event_manager) - the mere Spring MVC app, implementing the plain CRUD operations. Usage description is available in README.md
 - [Duty Manager](https://github.com/dobroleks94/DutyManager) - the application devoted for the narrow auditory ([MITIT n.a. Heroes of Kruty](http://www.viti.edu.ua/)) to control, manage and report the cadets' livelyhood of specific faculty (or in another words - to create a 'Rozhid Osobovogo Skladu Fakultetu')
 
 Hope, you will like it :) <br/>
