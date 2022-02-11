@@ -11,6 +11,7 @@ That was the Maxim Morev said. And one more from user with DevMan nickname:
 
 Thus, inferring that, I've made a decision to grab here the ***links for the projects*** I'd like to present for specific purpose!
 
+- [Microservices Test](https://github.com/dobroleks94/microservices_test_task) - test task to implement microservices approach of applications development + OAuth2 protocol implementation.
 - [Exchange Rate API test task](https://github.com/dobroleks94/overonix_test_task) - test task to demonstrate available skills in programming. Detailed description of all task's demands is attached in the README.md file of the repo.
 - [Threaddy Ball Pool](https://github.com/dobroleks94/threaddy-ball-pool) - the application of billiard emulator to demonstrate the threads usage, proposed by Super RDZ ))
 - [Infromational Network Events manager](https://github.com/dobroleks94/informational-network-event_manager) - the mere Spring MVC app, implementing the plain CRUD operations. Usage description is available in README.md
